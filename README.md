@@ -7,8 +7,8 @@ Franklin is a voice-controlled assistant designed to simplify daily tasks with j
 
 ---
 
-![Franklin Banner](https://yourimageurl.com/banner.png)  
-*(Replace this with a sleek banner showcasing Franklin in action.)*
+![d1](https://github.com/user-attachments/assets/8e0b2e54-9992-4093-8389-a525fe16bea7)
+
 
 ---
 
