@@ -1,6 +1,6 @@
 
 
-# **Franklin - Your Personal Voice Assistant**  
+# **Franklin - Futuristic Responsive Assistant for Navigation, Knowledge, Logistics, Information, and Networking**  
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Windows](https://img.shields.io/badge/Platform-Windows-blue)
 
 Franklin is a voice-controlled assistant designed to simplify daily tasks with just a few spoken commands. Addressed as "Sir," Franklin manages everything from file handling, emails, and reminders to fetching information from the web.  
