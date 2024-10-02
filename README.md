@@ -1,6 +1,4 @@
-Here’s a sample GitHub README for your voice-controlled assistant project, **Franklin**. It emphasizes a clean UI with sections that can be visually appealing when rendered on GitHub.
 
----
 
 # **Franklin - Your Personal Voice Assistant**  
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Windows](https://img.shields.io/badge/Platform-Windows-blue)
