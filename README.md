@@ -60,7 +60,7 @@ Franklin: Opening Visual Studio Code...
    ```
 3. Run Franklin:
    ```bash
-   python franklin.py
+   python main.py
    ```
 
 ---
