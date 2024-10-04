@@ -81,5 +81,3 @@ Example commands:
 - Integration with smart home devices
 - AI-powered responses using APIs like WolframAlpha
 - Mood detection and personalized greetings
-
----
